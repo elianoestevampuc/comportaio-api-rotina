@@ -19,7 +19,7 @@ API para manter operações da rotina na aplicação.
 Software foi desenvolvido para o MVP da Sprint Arquitetura de Software da pós graduação de Engenharia de Software PUC-Rio.
 Apresentação em: https://youtu.be/6cihGNLlNhE
 
-> ⚠️ O frontend que consome essa API pode ser acessado em: [comportaio-frontend](https://github.com/elianoestevampuc/comportaio-frontend).
+> ⚠️ O frontend que consome essa API, pode ser acessado em: [comportaio-frontend](https://github.com/elianoestevampuc/comportaio-frontend).
 
 ## Repositório github
 https://github.com/elianoestevampuc/comportaio-api-rotina.git
