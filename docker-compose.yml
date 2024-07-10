@@ -1,0 +1,7 @@
+version: "2.4"
+services:
+  rotina:
+    container_name: comportaio-api-rotina
+    image: elianoestevam/comportaio-api-rotina:1.0 
+    ports:
+      - 8001:8001
